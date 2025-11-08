@@ -5,7 +5,8 @@
 -    front (html, css, javascript, reactjs and backend (node, java, php)
 - 📫 How to reach me: gersonthomas37@gmail.com, gersonthomas72@gmail.com 
 - 😄 Pronouns: He
-- ⚡ Fun fact: ...
+- ⚡ **Porfolio:** https://portfoliojersontomas.vercel.app/
+- ⚡**LinkedIm:** https://www.linkedin.com/in/jerson-tom%C3%A1s-8a07b9364/
 
 <!---
 JersonDvp37/JersonDvp37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
